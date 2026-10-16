@@ -1,0 +1,8 @@
+{
+  "prediction": "clean_context",
+  "confidence": 0.9690126776695251,
+  "probabilities": {
+    "clean_context": 0.9690126776695251,
+    "debris": 0.030987346544861794
+  }
+}
