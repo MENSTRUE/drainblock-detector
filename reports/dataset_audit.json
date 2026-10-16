@@ -1,0 +1,9 @@
+{
+  "csv_rows": 25000,
+  "csv_unique_filenames": 25000,
+  "disk_images": 23297,
+  "missing_images": 1703,
+  "extra_images": 0,
+  "usable_rows": 23297,
+  "full_data_mode": true
+}
